@@ -1,1 +1,2 @@
-# testupload
+# `testupload`
+`sudo apt update`
